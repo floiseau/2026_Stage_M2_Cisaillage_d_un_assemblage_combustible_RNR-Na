@@ -5,6 +5,7 @@ format:
   html:
     embed-resources: true
     mainfont: Arial
+    toc: true
   pdf:
     geometry:
       - top=1in
