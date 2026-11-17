@@ -41,9 +41,9 @@ L'objectif scientifique du stage consistera à mettre en place une première bas
 Une simulation complète de l'assemblage étant hors de portée à l'échelle d'un stage, l'étude se concentrera sur la modélisation du cisaillage d'un crayon de combustible.
 Le travail consistera notamment à :
 
-* construire un modèle éléments finis du crayon, et si besoin de l'outil de coupe,
+* construire un modèle par éléments finis du crayon, et, si besoin, de l'outil de coupe,
 * représenter le comportement mécanique des matériaux, y compris leur non-linéarité,
-* simuler la coupe du crayon le crayon par la cisaille, afin d'analyser les efforts générés ainsi que les modes de déformation et de rupture.
+* simuler la coupe du crayon par la cisaille, afin d'analyser les efforts générés ainsi que les modes de déformation et de rupture.
 
 La modélisation 3D ainsi développée servira de référence pour identifier les paramètres et les phénomènes déterminants pour la coupe.
 Elle sera ensuite mobilisée dans le cadre d'une étude paramétrique visant à formuler un modèle simplifié de crayon, dont le coût de calcul réduit permettra d'envisager la simulation d'un assemblage complet.
@@ -57,7 +57,7 @@ Candidat.e en Master 2 en mécanique des solides et des structures, avec un int�
 
 * la modélisation du comportement des matériaux, plus spécifiquement l'endommagement et la rupture,
 * la simulation numérique de structures mécaniques, notamment par éléments finis,
-* les applications au domaine nucléaire et à l'ingénierie de procédés.
+* les applications au domaine nucléaire.
 
 Des compétences en calcul de structures et en programmation scientifique (Python) seraient un plus.
 
@@ -67,7 +67,7 @@ Le stage est proposé pour une durée de 5 à 6 mois, sur la période février-a
 
 La période exacte pourra être ajustée en fonction des contraintes académiques de la personne retenue.
 
-Il sera rémunéré selon la gratification légale en vigueur.
+Le stage sera rémunéré conformément à la gratification légale en vigueur.
 
 ## Partenaires
 
